@@ -17,6 +17,7 @@ filetype on
 
 set nu
 
+set linespace=4
 
 set tabstop=4
 set shiftwidth=4
